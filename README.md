@@ -11,8 +11,8 @@ This project demonstrates how to use FreeRTOS multitasking features on the ESP32
 ## Requirements
 
 - ESP32-S3 development board
-- [PlatformIO](https://platformio.org/) (recommended, via VS Code)
-- USB cable for programming
+- [PlatformIO](https://platformio.org/) (via VS Code)
+- USB-A to USB-C cable
 
 ## Getting Started
 
